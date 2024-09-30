@@ -20,27 +20,27 @@ OpenStreetMap<br />https://github.com/banbar/harita.hacettepe.edu.tr
 <p align="justify">(The steps before linking the database are available in the group report.)</p>
 <p align="justify">Firstly, I linked the database of https://harita.hacettepe.edu.tr.</p>
 
-![link to qgis](https://github.com/GMT-352/final-project-individual-alperencatak/assets/118128475/669b064f-fbe0-4a09-9389-b657e8c5e100)
+![1](https://github.com/user-attachments/assets/8a38031e-4808-407c-b390-bc5c7c23c4ef)
 
 <p align="justify">Then, I searched the deficiency or updateable thing. I found this road. This road existing in the provider OpenStreetMap but not exist in this project.</p>
 
-![qgis no road](https://github.com/GMT-352/final-project-individual-alperencatak/assets/118128475/426d481d-d75c-43fb-bcbd-368244e5d3ef)
+![2](https://github.com/user-attachments/assets/23781214-581c-4827-831e-1e2c6f7f96b0)
 
 <p align="justify">After that, I created road and its node.</p>
 
-![nodes](https://github.com/GMT-352/final-project-individual-alperencatak/assets/118128475/6174641c-4dcb-4fb9-b77e-a303089e9e8f)
+![3](https://github.com/user-attachments/assets/02d3da91-ff09-420c-8f69-82a0237e559a)
 
-![road update](https://github.com/GMT-352/final-project-individual-alperencatak/assets/118128475/44b5def7-ff20-4139-97a7-bb456d36011e)
+![4](https://github.com/user-attachments/assets/e0186b68-e84c-4a80-8702-12dfde26c4f2)
 
 <p align="justify">After the saving, I checked the database on "PostgreSQL" and done.</p>
 
-![after saving 2](https://github.com/GMT-352/final-project-individual-alperencatak/assets/118128475/fa18dcc3-9940-4c4f-ac55-96a8a0381523)
+![5](https://github.com/user-attachments/assets/b283456f-91dc-4886-b0cf-29ec535396ff)
 
-![after saving](https://github.com/GMT-352/final-project-individual-alperencatak/assets/118128475/3439c204-72bf-4283-9b91-d1e851185259)
+![6](https://github.com/user-attachments/assets/e8f34d28-2c1a-4888-a89d-497420016376)
 
 <p align="justify">Finally, I started the client and check the shortest path.</p>
 
 ## <p align="center"> Before
-![before](https://github.com/GMT-352/final-project-individual-alperencatak/assets/118128475/8ed812ea-b683-4ec6-8825-241d1439a120)
+![7](https://github.com/user-attachments/assets/d9965d77-8f66-415a-8674-8f9d873ae67a)
 ## <p align="center"> After
-<img width="1440" alt="after" src="https://github.com/GMT-352/final-project-individual-alperencatak/assets/118128475/c78db56f-45c5-4e22-841c-a2b2be9ecdc3">
+<img width="1440" alt="8" src="https://github.com/user-attachments/assets/9ae6cde5-41dc-4775-8351-d08995ed53cd">
